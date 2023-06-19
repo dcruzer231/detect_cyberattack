@@ -1,9 +1,9 @@
 # Cruz-Dawson-Summer2021
 
-This repository holds the awesome code that Daniel Cruz wrote for his ORNL internship in the Summer of 2021!  With permsission from my mentor Joel Dawson.  Data used is not provided in this repository.
+This repository holds the awesome code that Daniel Cruz wrote for his ORNL internship in the Summer of 2021!  With permission from my mentor Joel Dawson.  Data used is not provided in this repository.
 
 # Daniel Cruz 2021
-This repository holds the machine learning model used to train on HASP Images.
+This repository holds the machine learning model used to train on HASP Images (Harmonically Aligned Signal Projection) of back-channel current readings.
 
 - makeDasp.py houses several methods I made to generate HASP images.  The main functions you would want to mess with
 just for generating HASP images are located at the end of the program.  Each method is used for a different dataset
